@@ -1,4 +1,4 @@
-#Nexts.js application
+# Nexts.js application
 
 Application developed on [RocketSeat Ignite](https://www.rocketseat.com.br/ignite) classes to start learning next.js and other react.js core concepts, such as:
 - Creating Next structure
